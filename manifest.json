@@ -1,7 +1,9 @@
 {
   "name": "coffeelings",
   "version": "1.300",
-  "description": "A mini journal tucked into your browser.",
+  "description": "A mini journal tucked into your browser.
+  Not mine, Coffeelings and assets belong to cnnmon.
+  Please note these are for EDUCATIONAL PURPOSES ONLY!!!",
   "permissions": ["declarativeContent", "storage"],
   "background": {
     "scripts": ["jquery-3.4.1.min.js", "background.js"],
